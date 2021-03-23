@@ -15,7 +15,7 @@
 
 Welcome to your JavaScript Project!
 
-You are going build a Single Page Application (**SPA**). Your frontend will be built with HTML, CSS, and JavaScript. Your frontend will communicate with an external API data source.
+You are going build a Single Page Application (**SPA**). Your frontend will be built with HTML, CSS, and JavaScript. Your frontend will communicate with a backend API that you'll build with Ruby and Rails. This is a really exciting moment - the whole course up until this point is coming together!
 
 ## <a id="objectives"></a>Objectives
 
